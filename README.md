@@ -1,0 +1,5 @@
+- 👋 Hi, I am Vidushi Bhargava, a Data Enthusiastic.
+- 👀 I am interested in learning and exploring new concepts in the field of data science.
+- 🌱 I am currently exploring reserach papers on transformers, Generative AI and Large Language Models (LLMs) and their implementation.
+- 💞️ I am looking to collaborate on various projects in data science.
+- 📫 You can reach me through vidushibhrgv@gmail.com
